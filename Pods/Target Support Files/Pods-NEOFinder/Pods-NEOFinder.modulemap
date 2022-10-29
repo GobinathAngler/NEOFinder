@@ -1,0 +1,6 @@
+framework module Pods_NEOFinder {
+  umbrella header "Pods-NEOFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
